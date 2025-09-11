@@ -1,0 +1,2 @@
+SUPABASE_URL = "https://gvkmfcccgjmaktsumwfu.supabase.co"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imd2a21mY2NjZ2ptYWt0c3Vtd2Z1Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1NzU1NTg3MSwiZXhwIjoyMDczMTMxODcxfQ.PS3n3ulMXBmFB1G_dPqd_DNwHpKhjImkFG-YzxOE72s"  # keep private

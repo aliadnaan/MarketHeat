@@ -68,7 +68,7 @@ def alerts(symbol: str, expiration: str):
         premium_value = (mid_price or 0) * (volume or 0) * 100
 
         # Whale rule check
-        if volume > open_interest or premium_value > 100_000:
+        if premium_value > 100_000:
             trade = {
                 "symbol": symbol,
                 "expiration": expiration,
