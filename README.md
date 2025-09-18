@@ -5,6 +5,7 @@ Real-time options flow tracker (MVP) inspired by UnusualWhales and BlackBoxStock
 - Track unusual options activity (volume spikes, OI changes, large premiums).
 - Provide alerts for potential "whale" trades.
 - Web app interface for visualization & filtering.
+- Have a button that will auto-analyze a company and form a bias on it
 
 ## 📂 Project Structure
 - **backend/** → APIs + data pipelines (Python/Node).
