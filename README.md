@@ -17,3 +17,6 @@ Real-time options flow tracker (MVP) inspired by UnusualWhales and BlackBoxStock
 ```bash
 git clone https://github.com/<your-username>/MarketHeat.git
 cd MarketHeat
+
+
+apt install python3.13-venv
